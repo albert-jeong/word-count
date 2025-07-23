@@ -1,2 +1,2 @@
 # word-count
-Word Count (So. Spring - Data Structure)
+Word Count (So. Spring, Data Structure)
